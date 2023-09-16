@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T07:11:05.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xPf7MOe_fuQ3biQvL7Wi" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T01:40:46.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BsVKAIOJvEnaLdGr1aok" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="GUziiqpnBU4pN7v51XvM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GUziiqpnBU4pN7v51XvM-1">
+        <mxCell id="GUziiqpnBU4pN7v51XvM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GUziiqpnBU4pN7v51XvM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUziiqpnBU4pN7v51XvM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GUziiqpnBU4pN7v51XvM-1">
+        <mxCell id="GUziiqpnBU4pN7v51XvM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GUziiqpnBU4pN7v51XvM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUziiqpnBU4pN7v51XvM-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;使用者輸入文字&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GUziiqpnBU4pN7v51XvM-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;使用者輸入文字&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="165" y="320" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GUziiqpnBU4pN7v51XvM-5" value="分析出感情主指" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="300" width="100" height="100" as="geometry" />
+        <mxCell id="GUziiqpnBU4pN7v51XvM-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;分析出感情、主旨&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="297.5" width="210" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="GUziiqpnBU4pN7v51XvM-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;開始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GUziiqpnBU4pN7v51XvM-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;開始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
